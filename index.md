@@ -1,6 +1,6 @@
 # Aureole privacy policy
 
-*Last updated: 5 November 2026. Applies to Aureole from Google Play (package `app.aureole.play`), version 1.0.0 and later.*
+*Last updated: 7 November 2026. Applies to Aureole from Google Play (package `app.aureole.play`), version 1.0.0 and later.*
 
 **In short:** Aureole shows your notifications in a pill around your phone's camera. It reads them on your phone, uses them only to draw the pill, and keeps nothing it doesn't need. It has no internet access, so nothing it reads can leave your phone. There are no accounts, ads, analytics or trackers.
 
@@ -38,4 +38,4 @@ Aureole isn't directed at children and collects no personal information from any
 
 ## Changes and contact
 
-If this policy changes, the new version will be published here with a new date. Questions: [ajaychavda@gmail.com](mailto:ajaychavda@gmail.com).
+If this policy changes, the new version will be published here with a new date. Questions: [chavdinho@gmail.com](mailto:chavdinho@gmail.com).

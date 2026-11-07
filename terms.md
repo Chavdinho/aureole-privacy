@@ -1,12 +1,12 @@
 # Aureole terms of service
 
-*Last updated: 5 November 2026. Applies to Aureole from Google Play (package `app.aureole.play`), version 1.0.0 and later.*
+*Last updated: 7 November 2026. Applies to Aureole from Google Play (package `app.aureole.play`), version 1.0.0 and later.*
 
 **In short:** Aureole is free to use, and Aureole Pro is a one-off purchase through Google Play. Use it on your own phones, don't rely on it as your only way to see urgent alerts, and nothing here takes away your legal rights as a consumer.
 
 ## Who we are
 
-Aureole is made by Ajay Chavda, an independent developer in the United Kingdom ("we", "us"). You can reach us at [ajaychavda@gmail.com](mailto:ajaychavda@gmail.com). These terms are an agreement between you and us about using Aureole. Google Play's own terms also apply to downloading the app and to buying Pro.
+Aureole is made by Ajay Chavda, an independent developer in the United Kingdom ("we", "us"). You can reach us at [chavdinho@gmail.com](mailto:chavdinho@gmail.com). These terms are an agreement between you and us about using Aureole. Google Play's own terms also apply to downloading the app and to buying Pro.
 
 ## Using Aureole
 
@@ -57,4 +57,4 @@ These terms are governed by the law of England and Wales. If you live in Scotlan
 
 ## Contact
 
-Questions or complaints: [ajaychavda@gmail.com](mailto:ajaychavda@gmail.com).
+Questions or complaints: [chavdinho@gmail.com](mailto:chavdinho@gmail.com).
